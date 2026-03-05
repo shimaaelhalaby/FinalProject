@@ -6,7 +6,21 @@ A full-featured, offline-first To-Do application built with Flutter and Firebase
 
 ## 📱 Screenshots
 
-> Splash → Onboarding → Home → Add Task → Profile
+<p align="center">
+  <img src="screenshot/welcome.png" width="30%" />
+  <img src="screenshot/login.png" width="30%" />
+  <img src="screenshot/register.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="screenshot/home.png" width="30%" />
+  <img src="screenshot/edit_task.png" width="30%" />
+  <img src="screenshot/profile.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="screenshot/add_category.png" width="30%" />
+</p>
 
 ---
 
